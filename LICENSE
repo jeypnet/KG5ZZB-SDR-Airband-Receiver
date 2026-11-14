@@ -1,0 +1,26 @@
+KG5ZZB - SDR Airband Receiver
+Copyright (c) 2026 KG5ZZB. All rights reserved.
+
+FREE-TO-USE LICENSE (applies to version 0.6.3 and later)
+
+You may download, install and use this software free of charge, for private or
+commercial purposes, and you may share links to the official download page
+(https://github.com/jeypnet/KG5ZZB-SDR-Airband-Receiver/releases).
+
+You may not:
+  - modify, decompile, disassemble or reverse engineer the software, except as
+    permitted by applicable law or by the licenses of the third-party components;
+  - sell, rent or redistribute modified copies of the software;
+  - remove or change copyright notices.
+
+The software includes third-party open-source components, each under its own
+license (listed in README.md, "Third-party software inside the app"). Nothing in
+this license limits your rights under those licenses for those components.
+
+Versions up to and including 0.6.2 were published under the GNU General Public
+License v3.0; copies of those versions remain under that license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE. Receive only; check your local
+laws before listening to aviation radio.
