@@ -1,19 +1,33 @@
-# KG5ZZB - SDR Airband Receiver
+<div align="center">
 
-**Hear pilots and air traffic control, and see the planes around you on a map, with an inexpensive RTL-SDR USB dongle.** Windows, plus test versions for Mac and Linux.
+# ✈ KG5ZZB SDR Airband Receiver
 
-## ⬇ [Download it from KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/latest)
+**Hear pilots and air traffic control, see the planes around you on a map and read the messages they send,**<br>
+**with an inexpensive RTL-SDR USB dongle.** Everything from your own antenna, offline.
 
-The KG5ZZB airband receiver and its sister apps are now published together at **[github.com/jeypnet/KG5ZZB-Radio-Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**, with the guide, screenshots and all downloads. New versions appear there (tags `airband-vX.Y.Z`).
+<br>
 
-![Listening to the airband, with the AI noise filter on](docs/images/listen.png)
+[![Download Airband Receiver 0.8.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_0.8.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v0.8.0-trial/KG5ZZB-SDR-Airband-Receiver-0.8.0-trial-windows-x64.zip)
+<br>
+**Free 30-day trial** · Windows 10/11 · no install, just unzip
 
-- 🎙 **AI noise filter**: clear, crisp, loud voices with one button
-- 🔧 **One-click dongle setup** on Windows
-- 📻 **Scanner made simple**: SCAN, HOLD, SKIP, MONITOR, DELAY, every airport channel within 50 miles
-- ✈ **Planes on a map** from the app's own ADS-B decoder
-- ▶ **Try the demo** without a dongle
+**[Full guide, measurements and all downloads → KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**
 
-Version 0.6.2 also stays available here under [Releases](../../releases) for older links.
+</div>
 
-Free 30-day trial from version 0.7.0. All rights reserved © 2026 KG5ZZB ([LICENSE](LICENSE)). Third-party components: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Support the project on [Ko-fi](https://ko-fi.com/kg5zzb).
+[![The scanner on the left, the planes on the right](docs/images/map-voice.png)](docs/images/map-voice.png)
+
+| 🎧 **LISTEN** | ✈ **MAP** | ✉ **MESSAGES** |
+|:---:|:---:|:---:|
+| [![Listening](docs/images/listen.png)](docs/images/listen.png) | [![Planes on the map](docs/images/map.png)](docs/images/map.png) | [![Messages in plain words](docs/images/messages.png)](docs/images/messages.png) |
+| A scanner for pilots and air traffic control, channels found for you | Every plane around you on an offline map | Plane messages explained in one simple sentence |
+
+- 🎙 **AI noise filter:** clearer voices with one button.
+- ⚡ **Our own RTL-SDR driver:** the scanner twice as fast as with the free driver. [See the measurements](https://github.com/jeypnet/KG5ZZB-Radio-Apps/blob/main/docs/airband-driver.md).
+- 🔧 **One-click dongle setup** on Windows.
+- 📻 **Two receivers, plug and play:** MAP + VOICE or MAP + MESSAGES, side by side.
+- ▶ **Try the demo** without a dongle.
+
+Older version 0.6.2 stays available here under [Releases](../../releases) for old links.
+
+All rights reserved © 2026 KG5ZZB ([LICENSE](LICENSE)). Third-party components: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Support the project on [Ko-fi](https://ko-fi.com/kg5zzb).
