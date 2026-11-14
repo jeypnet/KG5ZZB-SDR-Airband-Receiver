@@ -1,0 +1,72 @@
+diff --git a/libwdi/.msvc/libwdi_static.vcxproj b/libwdi/.msvc/libwdi_static.vcxproj
+index 5f34e79..8b0185f 100644
+--- a/libwdi/.msvc/libwdi_static.vcxproj
++++ b/libwdi/.msvc/libwdi_static.vcxproj
+@@ -1,4 +1,4 @@
+-﻿<?xml version="1.0" encoding="utf-8"?>
++<?xml version="1.0" encoding="utf-8"?>
+ <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+   <ItemGroup Label="ProjectConfigurations">
+     <ProjectConfiguration Include="Debug|Win32">
+@@ -206,17 +206,10 @@ embedder embedded.h</Command>
+       <Project>{792d44d5-28a7-4eb3-b84b-8021fe3189f9}</Project>
+       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+     </ProjectReference>
+-    <ProjectReference Include="installer_arm64.vcxproj">
+-      <Project>{6ac16f78-f266-4ae0-bd63-550a55f54c15}</Project>
+-    </ProjectReference>
+     <ProjectReference Include="installer_x64.vcxproj">
+       <Project>{e5a56ee0-182f-470f-8cdc-8c1b7b86ee26}</Project>
+       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+     </ProjectReference>
+-    <ProjectReference Include="installer_x86.vcxproj">
+-      <Project>{9b1c561e-f95b-4849-a7aa-a4350e227c20}</Project>
+-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+-    </ProjectReference>
+   </ItemGroup>
+   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+   <ImportGroup Label="ExtensionTargets">
+diff --git a/msvc/config.h b/msvc/config.h
+index c44d377..4935580 100644
+--- a/msvc/config.h
++++ b/msvc/config.h
+@@ -23,7 +23,7 @@
+  * match your WinUSB redist directories.
+  */
+ #ifndef WDK_DIR
+-#define WDK_DIR "C:/Program Files (x86)/Windows Kits/8.0"
++#define WDK_DIR "C:/wdk-redist/Windows Kits/8.0"
+ #endif
+ 
+ /* WDK WDF coinstaller version */
+@@ -37,12 +37,12 @@
+ 
+ /* embed libusb0 driver files from the following location */
+ #ifndef LIBUSB0_DIR
+-#define LIBUSB0_DIR "D:/libusb-win32"
++// #define LIBUSB0_DIR (WinUSB only)
+ #endif
+ 
+ /* embed libusbK driver files from the following location */
+ #ifndef LIBUSBK_DIR
+-#define LIBUSBK_DIR "D:/libusbK/bin"
++// #define LIBUSBK_DIR (WinUSB only)
+ #endif
+ 
+ /* embed user defined driver files from the following location */
+@@ -51,13 +51,13 @@
+ #endif
+ 
+ /* 32 bit support */
+-#define OPT_M32
++// #define OPT_M32 (x64 app only)
+ 
+ /* 64 bit support */
+ #define OPT_M64
+ 
+ /* ARM64 support */
+-#define OPT_ARM
++// #define OPT_ARM
+ 
+ /* Debug message logging */
+ //#define ENABLE_DEBUG_LOGGING

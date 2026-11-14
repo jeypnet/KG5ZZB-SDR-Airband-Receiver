@@ -239,7 +239,7 @@ Listening to aviation radio is legal in the United States and many other countri
 
 ## Third-party software inside the app
 
-The app includes these open-source components, each under its own license:
+The app includes these open-source components, each under its own license. Full notices with source links: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). The build changes for libwdi (LGPL) and RNNoise are in [third-party/](third-party/).
 
 | Component | Used for | License |
 |---|---|---|
