@@ -16,4 +16,4 @@ The KG5ZZB airband receiver and its sister apps are now published together at **
 
 Version 0.6.2 also stays available here under [Releases](../../releases) for older links.
 
-Free to use. All rights reserved © 2026 KG5ZZB ([LICENSE](LICENSE)). Third-party components: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Support the project on [Ko-fi](https://ko-fi.com/kg5zzb).
+Free 30-day trial from version 0.7.0. All rights reserved © 2026 KG5ZZB ([LICENSE](LICENSE)). Third-party components: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Support the project on [Ko-fi](https://ko-fi.com/kg5zzb).
