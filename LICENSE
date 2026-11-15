@@ -1,19 +1,19 @@
 KG5ZZB - SDR Airband Receiver
 Copyright (c) 2026 KG5ZZB. All rights reserved.
 
-FREE TRIAL LICENSE (applies to version 0.7.0 and later)
+FREE LICENSE (applies to version 1.0.0 and later)
 
-You may download, install and use the free trial edition of this software free of charge
-for 30 days from its first start, for private purposes, and you may share links to the
-official download page (https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases).
-After 30 days the trial edition keeps its built-in demo; using it with a receiver after that
-requires the full version.
+You may download, install and use the free edition of this software free of charge,
+for private purposes, and you may share links to the official download page
+(https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases). For the first 30 days every feature
+works. After that it becomes the free basic version, which you may keep using with your
+receiver; the full features need a full-version licence key, bought once per person.
 
 You may not:
   - modify, decompile, disassemble or reverse engineer the software, except as permitted by
     applicable law or by the licenses of the third-party components;
   - sell, rent or redistribute modified copies of the software;
-  - circumvent the trial period;
+  - circumvent the 30-day full-feature period;
   - remove or change copyright notices.
 
 The software includes third-party open-source components, each under its own license

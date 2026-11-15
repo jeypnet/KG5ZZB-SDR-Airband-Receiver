@@ -7,11 +7,11 @@
 
 <br>
 
-[![Download Airband Receiver 1.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_1.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-windows-x64.zip)
+[![Download Airband Receiver 1.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_1.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.1/KG5ZZB-SDR-Airband-Receiver-1.0.1-windows-x64.zip)
 [![macOS](https://img.shields.io/badge/⬇_macOS-Apple_silicon_·_Intel-333?style=for-the-badge&logo=apple)](#-downloads-for-every-system)
 [![Linux](https://img.shields.io/badge/⬇_Linux-64--bit-333?style=for-the-badge&logo=linux&logoColor=white)](#-downloads-for-every-system)
 <br>
-**Free 30-day trial** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.0)
+**Free** · every feature for 30 days, then free forever (basic) or $12 once for everything · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.1)
 
 **[Full guide, measurements and all downloads → KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**
 
@@ -34,16 +34,16 @@
 
 | System | Version | Download |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64-bit) | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-windows-x64.zip)** |
-| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-arm64.zip)** |
-| 🍎 **macOS** 12+, Intel | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-x64.zip)** |
-| 🐧 **Linux** 64-bit, with a desktop | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-linux-x64.tar.gz)** |
+| 🪟 **Windows 10 / 11** (64-bit) | **1.0.1** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.1-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.1/KG5ZZB-SDR-Airband-Receiver-1.0.1-windows-x64.zip)** |
+| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.0** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.1/KG5ZZB-SDR-Airband-Receiver-1.0.0-macos-arm64.zip)** |
+| 🍎 **macOS** 12+, Intel | **1.0.0** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.1/KG5ZZB-SDR-Airband-Receiver-1.0.0-macos-x64.zip)** |
+| 🐧 **Linux** 64-bit, with a desktop | **1.0.0** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.1/KG5ZZB-SDR-Airband-Receiver-1.0.0-linux-x64.tar.gz)** |
 
 - **Windows:** unzip the whole folder and run `KG5ZZB-SDR-Airband-Receiver.exe`. A brand-new dongle: press **🔧 Set up dongle** once. If Windows says "Windows protected your PC", click **More info → Run anyway**.
 - **Mac:** run `brew install libusb` once, then the first time **right-click the app → Open → Open**. Steps in `README-MAC.txt` inside the zip.
 - **Linux:** copy the included udev rule once so your user can open the dongle; steps in `README-LINUX.txt` inside the archive.
 - **🌐 Languages:** English, Español, 中文 and 日本語 (automatic, or the 🌐 button).
-- After 30 days the app becomes the free basic version (scanner and map keep working); the full version is a one-time $12 with the ★ Full version button in the app.
+- **Free to use.** Every feature is unlocked for the first 30 days. After that the app stays free as the basic version: the scanner and the plane map keep working with your receiver. CLEAR VOICE, HOLD, MONITOR, DELAY, plane messages and full plane details are in the full version: $12, paid once, with the ★ Full version button in the app. No subscription.
 
 All versions: [Releases](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases).
 
