@@ -7,15 +7,17 @@
 
 <br>
 
-[![Download Airband Receiver 0.9.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_0.9.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v0.9.0-trial/KG5ZZB-SDR-Airband-Receiver-0.9.0-trial-windows-x64.zip)
+[![Download Airband Receiver 1.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_1.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-windows-x64.zip)
+[![macOS](https://img.shields.io/badge/⬇_macOS-Apple_silicon_·_Intel-333?style=for-the-badge&logo=apple)](#-downloads-for-every-system)
+[![Linux](https://img.shields.io/badge/⬇_Linux-64--bit-333?style=for-the-badge&logo=linux&logoColor=white)](#-downloads-for-every-system)
 <br>
-**Free 30-day trial** · Windows 10/11 · no install, just unzip · [Mac & Linux BETA](#-downloads-for-every-system)
+**Free 30-day trial** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.0)
 
 **[Full guide, measurements and all downloads → KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**
 
 </div>
 
-[![The scanner on the left, the planes on the right](docs/images/map-voice.png)](docs/images/map-voice.png)
+[![KG5ZZB SDR Airband Receiver 1.0](docs/images/airband-v1-hero.png)](docs/images/airband-v1-hero.png)
 
 | 🎧 **LISTEN** | ✈ **MAP** | ✉ **MESSAGES** |
 |:---:|:---:|:---:|
@@ -32,15 +34,16 @@
 
 | System | Version | Download |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64-bit) | **0.9.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-0.9.0-trial-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v0.9.0-trial/KG5ZZB-SDR-Airband-Receiver-0.9.0-trial-windows-x64.zip)** |
-| 🍎 **macOS** 12+, Apple silicon (M1–M4) | 0.6.2 · **BETA** | [KG5ZZB-SDR-Airband-Receiver-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v0.6.2/KG5ZZB-SDR-Airband-Receiver-macos-arm64.zip) |
-| 🍎 **macOS** 12+, Intel | 0.6.2 · **BETA** | [KG5ZZB-SDR-Airband-Receiver-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v0.6.2/KG5ZZB-SDR-Airband-Receiver-macos-x64.zip) |
-| 🐧 **Linux** 64-bit, with a desktop | 0.6.2 · **BETA** | [KG5ZZB-SDR-Airband-Receiver-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v0.6.2/KG5ZZB-SDR-Airband-Receiver-linux-x64.tar.gz) |
+| 🪟 **Windows 10 / 11** (64-bit) | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-windows-x64.zip)** |
+| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-arm64.zip)** |
+| 🍎 **macOS** 12+, Intel | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-macos-x64.zip)** |
+| 🐧 **Linux** 64-bit, with a desktop | **1.0.0** · free 30-day trial | **[KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.0/KG5ZZB-SDR-Airband-Receiver-1.0.0-trial-linux-x64.tar.gz)** |
 
 - **Windows:** unzip the whole folder and run `KG5ZZB-SDR-Airband-Receiver.exe`. A brand-new dongle: press **🔧 Set up dongle** once. If Windows says "Windows protected your PC", click **More info → Run anyway**.
-- **Mac BETA:** run `brew install librtlsdr` once, then the first time **right-click the app → Open → Open**. Steps in `README-MAC.txt` inside the zip.
-- **Linux BETA:** install librtlsdr (`sudo apt install librtlsdr2`) and block the TV driver; steps in `README-LINUX.txt` inside the archive.
-- The Mac and Linux BETA (0.6.2) work with RTL-SDR dongles and have the scanner, the AI noise filter and the planes map. 0.9.0 for Mac and Linux is on the way.
+- **Mac:** run `brew install libusb` once, then the first time **right-click the app → Open → Open**. Steps in `README-MAC.txt` inside the zip.
+- **Linux:** copy the included udev rule once so your user can open the dongle; steps in `README-LINUX.txt` inside the archive.
+- **🌐 Languages:** English, Español, 中文 and 日本語 (automatic, or the 🌐 button).
+- After 30 days the app becomes the free basic version (scanner and map keep working); the full version is a one-time $12 with the ★ Full version button in the app.
 
 All versions: [Releases](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases).
 
