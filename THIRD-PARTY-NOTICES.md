@@ -37,6 +37,8 @@ versions used; contact through https://ko-fi.com/kg5zzb.
 |---|---|
 | **OurAirports** airports and frequencies | Public domain |
 | **Natural Earth** map outlines | Public domain |
+| **FAA** NASR frequency data (US airband channels) and the FAA aircraft registry (US aircraft models) | US government work, public domain |
+| **Mictronics aircraft database** (https://github.com/Mictronics/aircraft-database): aircraft registrations and models outside the US, Airband Receiver from 1.0.0 | Open Data Commons Attribution License (ODC-By) v1.0, https://opendatacommons.org/licenses/by/1-0/ |
 | **EiBi** worldwide shortwave schedule, by Eike Bierwirth (http://www.eibispace.de) | Free for use in third-party software |
 | DRM broadcast schedule (drm.org); radiofax schedules published by NOAA, DWD, JMA and the Australian Bureau of Meteorology | Facts from public schedules |
 
