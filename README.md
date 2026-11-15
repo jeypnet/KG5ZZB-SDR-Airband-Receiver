@@ -22,8 +22,8 @@
 | [![Listening](docs/images/listen.png)](docs/images/listen.png) | [![Planes on the map](docs/images/map.png)](docs/images/map.png) | [![Messages in plain words](docs/images/messages.png)](docs/images/messages.png) |
 | A scanner for pilots and air traffic control, channels found for you | Every plane around you on an offline map | Plane messages explained in one simple sentence |
 
-- 🎙 **AI noise filter:** clearer voices with one button.
-- ⚡ **Our own RTL-SDR driver:** the scanner twice as fast as with the free driver. [See the measurements](https://github.com/jeypnet/KG5ZZB-Radio-Apps/blob/main/docs/airband-driver.md).
+- 🎙 **Voice filter:** louder, crisper voices with less hiss, with one button.
+- ⚡ **Our own RTL-SDR driver:** the scanner almost twice as fast as with the free driver. [See the measurements](https://github.com/jeypnet/KG5ZZB-Radio-Apps/blob/main/docs/airband-driver.md).
 - 🔧 **One-click dongle setup** on Windows.
 - 📻 **Two receivers, plug and play:** MAP + VOICE or MAP + MESSAGES, side by side.
 - ▶ **Try the demo** without a dongle.
