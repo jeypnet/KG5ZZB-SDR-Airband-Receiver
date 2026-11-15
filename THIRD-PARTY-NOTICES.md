@@ -17,6 +17,8 @@ under its own license. Where a license requires source code to be available, it 
 | **RNNoise** (Xiph.Org) | Airband AI noise filter | BSD 3-Clause | https://github.com/xiph/rnnoise |
 | **DeepFilterNet3** (H. Schröter et al.), streaming ONNX export by grazder | Shortwave "Voice only" filter | MIT / Apache-2.0 | https://github.com/Rikorose/DeepFilterNet, https://github.com/grazder/DeepFilterNet |
 | **ONNX Runtime** (Microsoft) | Running the DeepFilterNet3 model | MIT | https://github.com/microsoft/onnxruntime |
+| **acars-decoder** (Airframes contributors), bundled with **pako** (Vitaly Puzrin, Andrei Tuputcyn) | Airband Receiver from 0.9.0: reading the many plane message formats | MIT | https://github.com/airframesio/acars-decoder-typescript |
+| **Jint** (Sébastien Ros) | Running the message decoder inside the app | BSD 2-Clause | https://github.com/sebastienros/jint |
 | **NAudio** | Sound output on Windows | MIT | https://github.com/naudio/NAudio |
 | **Avalonia** | User interface on Mac and Linux | MIT | https://github.com/AvaloniaUI/Avalonia |
 | **Silk.NET** and **OpenAL Soft** | Sound output on Mac and Linux | MIT; OpenAL Soft: GNU LGPL v2.0 | https://github.com/dotnet/Silk.NET, https://github.com/kcat/openal-soft |
@@ -39,3 +41,30 @@ versions used; contact through https://ko-fi.com/kg5zzb.
 | DRM broadcast schedule (drm.org); radiofax schedules published by NOAA, DWD, JMA and the Australian Bureau of Meteorology | Facts from public schedules |
 
 Reference: *The 1090 MHz Riddle* by Junzi Sun, for ADS-B decoding.
+
+## License texts for the message decoder
+
+**acars-decoder** — MIT License, Copyright (c) 2026 Airframes contributors. **pako** — MIT License,
+Copyright (C) 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions: The above copyright notice and this
+permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**Jint** — BSD 2-Clause License, Copyright (c) Sébastien Ros. Redistribution and use in source and
+binary forms, with or without modification, are permitted provided that the following conditions
+are met: (1) Redistributions of source code must retain the above copyright notice, this list of
+conditions and the following disclaimer. (2) Redistributions in binary form must reproduce the
+above copyright notice, this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT
+HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES ARE DISCLAIMED. IN NO EVENT
+SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DAMAGES ARISING IN ANY WAY OUT OF THE
+USE OF THIS SOFTWARE.
