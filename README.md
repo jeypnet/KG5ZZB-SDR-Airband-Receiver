@@ -7,11 +7,11 @@
 
 <br>
 
-[![Download Airband Receiver 1.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_1.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.4/KG5ZZB-SDR-Airband-Receiver-1.0.4-windows-x64.zip)
+[![Download Airband Receiver 1.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_1.0_·_Windows-0369A1?style=for-the-badge)](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-windows-x64.zip)
 [![macOS](https://img.shields.io/badge/⬇_macOS-Apple_silicon_·_Intel-333?style=for-the-badge&logo=apple)](#-downloads-for-every-system)
 [![Linux](https://img.shields.io/badge/⬇_Linux-64--bit-333?style=for-the-badge&logo=linux&logoColor=white)](#-downloads-for-every-system)
 <br>
-**Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.4)
+**Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.5)
 
 **[Full guide, measurements and all downloads → KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**
 
@@ -28,19 +28,18 @@
 - ⚡ **Our own RTL-SDR driver:** the scanner almost twice as fast as with the free driver. [See the measurements](https://github.com/jeypnet/KG5ZZB-Radio-Apps/blob/main/docs/airband-driver.md).
 - 🔧 **One-click dongle setup** on Windows.
 - 📻 **Two receivers, plug and play:** MAP + VOICE or MAP + MESSAGES, side by side.
-- ▶ **Try the demo** without a dongle.
 
 ## ⬇ Downloads for every system
 
 | System | Version | Download |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64-bit) | **1.0.4** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.4-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.4/KG5ZZB-SDR-Airband-Receiver-1.0.4-windows-x64.zip)** |
-| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.4** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.4-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.4/KG5ZZB-SDR-Airband-Receiver-1.0.4-macos-arm64.zip)** |
-| 🍎 **macOS** 12+, Intel | **1.0.4** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.4-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.4/KG5ZZB-SDR-Airband-Receiver-1.0.4-macos-x64.zip)** |
-| 🐧 **Linux** 64-bit, with a desktop | **1.0.4** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.4-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.4/KG5ZZB-SDR-Airband-Receiver-1.0.4-linux-x64.tar.gz)** |
+| 🪟 **Windows 10 / 11** (64-bit) | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-windows-x64.zip)** |
+| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-arm64.zip)** |
+| 🍎 **macOS** 12+, Intel | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-x64.zip)** |
+| 🐧 **Linux** 64-bit, with a desktop | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-linux-x64.tar.gz)** |
 
 - **Windows:** unzip the whole folder and run `KG5ZZB-SDR-Airband-Receiver.exe`. A brand-new dongle: press **🔧 Set up dongle** once. If Windows says "Windows protected your PC", click **More info → Run anyway**.
-- **Mac:** run `brew install libusb` once, then the first time **right-click the app → Open → Open**. Steps in `README-MAC.txt` inside the zip.
+- **Mac:** move the app to Applications and open it. The app is signed and notarized by Apple; macOS asks once to confirm it was downloaded from the internet: click **Open**.
 - **Linux:** copy the included udev rule once so your user can open the dongle; steps in `README-LINUX.txt` inside the archive.
 - **🌐 Languages:** English, Español, 中文 and 日本語 (automatic, or the 🌐 button).
 - **Free download.** The scanner and the plane map are free, for good. For the first 30 days every extra is switched on too; after that, CLEAR VOICE, HOLD, MONITOR, DELAY and plane messages are an optional upgrade inside the app.
