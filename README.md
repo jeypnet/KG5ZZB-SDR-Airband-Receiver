@@ -11,7 +11,7 @@
 [![macOS](https://img.shields.io/badge/⬇_macOS-Apple_silicon_·_Intel-333?style=for-the-badge&logo=apple)](https://kg5zzb.jeyp.net/download)
 [![Linux](https://img.shields.io/badge/⬇_Linux-64--bit-333?style=for-the-badge&logo=linux&logoColor=white)](https://kg5zzb.jeyp.net/download)
 <br>
-[![Get updates by email](https://img.shields.io/badge/📬_Get_updates_by_email-16A34A?style=for-the-badge)](https://kg5zzb.jeyp.net/updates?from=github) [![Support](https://img.shields.io/badge/💬_Report_a_problem-555?style=for-the-badge)](https://kg5zzb.jeyp.net/support) [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://kg5zzb.jeyp.net/linkedin?from=github)
+[![Get updates by email](https://img.shields.io/badge/📬_Get_updates_by_email-16A34A?style=for-the-badge)](https://kg5zzb.jeyp.net/updates?from=github) [![Support](https://img.shields.io/badge/💬_Report_a_problem-555?style=for-the-badge)](https://kg5zzb.jeyp.net/support) [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeypnet/)
 <br>
 **Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.5)
 
