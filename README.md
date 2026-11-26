@@ -13,7 +13,7 @@
 <br>
 [![Get updates by email](https://img.shields.io/badge/📬_Get_updates_by_email-16A34A?style=for-the-badge)](https://kg5zzb.jeyp.net/updates?from=github) [![Support](https://img.shields.io/badge/💬_Report_a_problem-555?style=for-the-badge)](https://kg5zzb.jeyp.net/support) [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeypnet/)
 <br>
-**Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.5)
+**Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.6)
 
 **[Full guide, measurements and all downloads → KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**
 
@@ -35,10 +35,10 @@
 
 | System | Version | Download |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64-bit) | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-windows-x64.zip)** |
-| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-arm64.zip)** |
-| 🍎 **macOS** 12+, Intel | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-macos-x64.zip)** |
-| 🐧 **Linux** 64-bit, with a desktop | **1.0.5** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.5-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.5/KG5ZZB-SDR-Airband-Receiver-1.0.5-linux-x64.tar.gz)** |
+| 🪟 **Windows 10 / 11** (64-bit) | **1.0.6** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.6-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.6/KG5ZZB-SDR-Airband-Receiver-1.0.6-windows-x64.zip)** |
+| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.6** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.6-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.6/KG5ZZB-SDR-Airband-Receiver-1.0.6-macos-arm64.zip)** |
+| 🍎 **macOS** 12+, Intel | **1.0.6** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.6-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.6/KG5ZZB-SDR-Airband-Receiver-1.0.6-macos-x64.zip)** |
+| 🐧 **Linux** 64-bit, with a desktop | **1.0.6** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.6-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.6/KG5ZZB-SDR-Airband-Receiver-1.0.6-linux-x64.tar.gz)** |
 
 - **Windows:** unzip the whole folder and run `KG5ZZB-SDR-Airband-Receiver.exe`. A brand-new dongle: press **🔧 Set up dongle** once. If Windows says "Windows protected your PC", click **More info → Run anyway**.
 - **Mac:** move the app to Applications and open it. The app is signed and notarized by Apple; macOS asks once to confirm it was downloaded from the internet: click **Open**.
