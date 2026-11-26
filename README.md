@@ -16,7 +16,7 @@
 
 [![Support](https://img.shields.io/badge/💬_Report_a_problem-555?style=for-the-badge)](https://kg5zzb.jeyp.net/support) [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeypnet/)
 <br>
-**Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.7)
+**Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.9)
 
 **[Full guide, measurements and all downloads → KG5ZZB Radio Apps](https://github.com/jeypnet/KG5ZZB-Radio-Apps)**
 
@@ -33,16 +33,16 @@
 - ⚡ **Our own RTL-SDR driver:** the scanner almost twice as fast as with the free driver. [See the measurements](https://github.com/jeypnet/KG5ZZB-Radio-Apps/blob/main/docs/airband-driver.md).
 - 🔧 **One-click dongle setup** on Windows.
 - 📻 **Two receivers, plug and play:** MAP + VOICE or MAP + MESSAGES, side by side.
-- 🆕 **New in 1.0.7:** message cards that say what each message is, one card per flight, and automatic protection against very strong nearby stations. [Release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.7)
+- 🆕 **New in 1.0.9:** a much cleaner CLEAR VOICE (the hiss between words almost gone, voices stay natural), add your own frequencies, and HackRF One support (beta). [Release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.9)
 
 ## ⬇ Downloads for every system
 
 | System | Version | Download |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64-bit) | **1.0.7** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.7-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.7/KG5ZZB-SDR-Airband-Receiver-1.0.7-windows-x64.zip)** |
-| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.7** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.7-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.7/KG5ZZB-SDR-Airband-Receiver-1.0.7-macos-arm64.zip)** |
-| 🍎 **macOS** 12+, Intel | **1.0.7** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.7-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.7/KG5ZZB-SDR-Airband-Receiver-1.0.7-macos-x64.zip)** |
-| 🐧 **Linux** 64-bit, with a desktop | **1.0.7** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.7-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.7/KG5ZZB-SDR-Airband-Receiver-1.0.7-linux-x64.tar.gz)** |
+| 🪟 **Windows 10 / 11** (64-bit) | **1.0.9** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.9-windows-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.9/KG5ZZB-SDR-Airband-Receiver-1.0.9-windows-x64.zip)** |
+| 🍎 **macOS** 12+, Apple silicon (M1–M4) | **1.0.9** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.9-macos-arm64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.9/KG5ZZB-SDR-Airband-Receiver-1.0.9-macos-arm64.zip)** |
+| 🍎 **macOS** 12+, Intel | **1.0.9** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.9-macos-x64.zip](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.9/KG5ZZB-SDR-Airband-Receiver-1.0.9-macos-x64.zip)** |
+| 🐧 **Linux** 64-bit, with a desktop | **1.0.9** · free | **[KG5ZZB-SDR-Airband-Receiver-1.0.9-linux-x64.tar.gz](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/download/airband-v1.0.9/KG5ZZB-SDR-Airband-Receiver-1.0.9-linux-x64.tar.gz)** |
 
 - **Windows:** unzip the whole folder and run `KG5ZZB-SDR-Airband-Receiver.exe`. A brand-new dongle: press **🔧 Set up dongle** once. If Windows says "Windows protected your PC", click **More info → Run anyway**.
 - **Mac:** move the app to Applications and open it. The app is signed and notarized by Apple; macOS asks once to confirm it was downloaded from the internet: click **Open**.
@@ -61,6 +61,7 @@ All versions: [Releases](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases).
 | **RTL-SDR dongles** with an R820T, R820T2, R828D or R860 tuner | Nooelec NESDR SMArt v4 / v5, NESDR Mini 2+, NESDR Nano 2+ / 3 · RTL-SDR Blog V3 and V4 · other RTL2832U sticks with these tuners | Our own driver from 0.8.0. One-click USB setup on Windows. |
 | **SDRplay** | RSP1, RSP1A, RSP1B, RSP2, RSP2pro, RSPduo (both tuners at once), RSPdx, RSPdx-R2 | **BETA**, from 0.7.0. Install the free SDRplay API from [sdrplay.com](https://www.sdrplay.com/api/) first (SDRuno users already have it). |
 | **Airspy** | Airspy R2, Airspy Mini | **BETA**, from 0.7.0. |
+| **HackRF** | HackRF One | **BETA**, from 1.0.9. Our own driver; one-click USB setup on Windows. |
 | Not supported | Very old RTL-SDR sticks with an E4000, FC0012, FC0013 or FC2580 tuner (for example the NESDR XTR) | |
 
 **Antennas:** a simple dipole or whip for the airband (118–137 MHz) and a 1090 MHz antenna for planes. With two receivers, give each one its own antenna; the app finds which is which.
