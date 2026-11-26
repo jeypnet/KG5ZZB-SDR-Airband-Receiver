@@ -10,8 +10,11 @@
 [![Download Airband Receiver 1.0 for Windows](https://img.shields.io/badge/⬇_Download-Airband_Receiver_1.0_·_Windows-0369A1?style=for-the-badge)](https://kg5zzb.jeyp.net/download?os=windows)
 [![macOS](https://img.shields.io/badge/⬇_macOS-Apple_silicon_·_Intel-333?style=for-the-badge&logo=apple)](https://kg5zzb.jeyp.net/download)
 [![Linux](https://img.shields.io/badge/⬇_Linux-64--bit-333?style=for-the-badge&logo=linux&logoColor=white)](https://kg5zzb.jeyp.net/download)
-<br>
-[![Get updates by email](https://img.shields.io/badge/📬_Get_updates_by_email-16A34A?style=for-the-badge)](https://kg5zzb.jeyp.net/updates?from=github) [![Support](https://img.shields.io/badge/💬_Report_a_problem-555?style=for-the-badge)](https://kg5zzb.jeyp.net/support) [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeypnet/)
+<br><br>
+
+<a href="https://kg5zzb.jeyp.net/updates?from=github"><img src="docs/images/email-updates-signup.png" alt="Get new versions by email: sign up free" width="100%"></a>
+
+[![Support](https://img.shields.io/badge/💬_Report_a_problem-555?style=for-the-badge)](https://kg5zzb.jeyp.net/support) [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jeypnet/)
 <br>
 **Free download** · Windows · macOS · Linux · English · Español · 中文 · 日本語 · no install · [release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.6)
 
@@ -30,6 +33,7 @@
 - ⚡ **Our own RTL-SDR driver:** the scanner almost twice as fast as with the free driver. [See the measurements](https://github.com/jeypnet/KG5ZZB-Radio-Apps/blob/main/docs/airband-driver.md).
 - 🔧 **One-click dongle setup** on Windows.
 - 📻 **Two receivers, plug and play:** MAP + VOICE or MAP + MESSAGES, side by side.
+- 🆕 **New in 1.0.6:** clearer voice with no bang when someone starts talking, and plane messages anyone can read. [Release notes](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases/tag/airband-v1.0.6)
 
 ## ⬇ Downloads for every system
 
@@ -48,6 +52,8 @@
 
 All versions: [Releases](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases).
 
+[![Get new versions by email: sign up free](docs/images/email-updates-signup.png)](https://kg5zzb.jeyp.net/updates?from=github)
+
 ## 📻 Compatible receivers
 
 | Receiver | Models | Notes |
@@ -58,6 +64,11 @@ All versions: [Releases](https://github.com/jeypnet/KG5ZZB-Radio-Apps/releases).
 | Not supported | Very old RTL-SDR sticks with an E4000, FC0012, FC0013 or FC2580 tuner (for example the NESDR XTR) | |
 
 **Antennas:** a simple dipole or whip for the airband (118–137 MHz) and a 1090 MHz antenna for planes. With two receivers, give each one its own antenna; the app finds which is which.
+
+## 📬 Stay in the loop
+New versions and new KG5ZZB radio apps go out by email first.
+
+[![Get new versions by email: sign up free](docs/images/email-updates-signup.png)](https://kg5zzb.jeyp.net/updates?from=github)
 
 Older version 0.6.2 stays available here under [Releases](../../releases) for old links.
 
